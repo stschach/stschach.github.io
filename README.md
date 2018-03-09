@@ -1,12 +1,12 @@
-# [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
+# Personal Portfolio Website
+
+This website was created with the bootstrap freelancer theme to showcase my portfolio of work that I've completed
+since my final project from 2012. Most of the major projects I have contributed to are showcased on this website.
+I would like to eventually move this project to a custom domain, after I find a better hosting option.
+
+## [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
-
-## Preview
-
-[![Freelancer Preview](https://startbootstrap.com/assets/img/templates/freelancer.jpg)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
 
 ## Status
 
