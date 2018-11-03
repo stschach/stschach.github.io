@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 This website was created with the bootstrap freelancer theme to showcase my portfolio of work that I've completed
-since my final project from 2012. Most of the major projects I have contributed to are showcased on this website.
+since my high school capstone project from 2012. Most of the major projects I have contributed to are showcased on this website.
 I would like to eventually move this project to a custom domain, after I find a better hosting option.
 
 ## [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
